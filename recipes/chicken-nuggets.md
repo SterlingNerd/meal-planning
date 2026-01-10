@@ -1,6 +1,6 @@
 # Chicken Nuggets
 
-||||
+|||
 |-|-------|
 | Rating | 3 |
 | Ease | 5 |

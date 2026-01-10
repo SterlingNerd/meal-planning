@@ -16,7 +16,7 @@ Everything cooks on one pan - minimal cleanup and maximum flavor. The vegetables
 |Italian Sausage|1 package|Dairy-free variety, cut into chunks|
 |Bell Peppers|2-3|Various colors, cut into strips|
 |Onion|1 large|Cut into wedges|
-|Zucchini|2|Cut into chunks|
+|Carrots|2|Cut into chunks|
 |Potatoes|3-4|Cut into chunks|
 |Broccoli|1 head|Cut into florets|
 |Oil||

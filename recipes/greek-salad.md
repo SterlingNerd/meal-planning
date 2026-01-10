@@ -17,7 +17,7 @@ A greek inspired salad. Great for a side, or pig out and eat the whole bowl as a
 | Cherry/Grape Tomatoes | 1 pint
 | Feta Cheese |
 | Greek Olives |
-| Pepprocinis |
+| Pepperoncini |
 | Olive Oil | 2 tbsp
 | Basil |
 

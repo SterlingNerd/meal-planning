@@ -28,7 +28,7 @@ A one-pot meal that's comforting and easy. The rice absorbs all the flavors from
 
 - Heat oil in a large pot or Dutch oven over medium-high heat
 - Season chicken with salt, pepper, and Italian seasoning
-- Sear chicken on both sides until golden, remove and set aside
+- Sear chicken on both sides until golden, **remove and set aside**
 - In the same pot, add onion, carrots, and celery, cook until softened
 - Add garlic, cook for another minute
 - Add rice and stir to coat with oil
