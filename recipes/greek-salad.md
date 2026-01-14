@@ -18,12 +18,12 @@ A greek inspired salad. Great for a side, or pig out and eat the whole bowl as a
 | Feta Cheese |
 | Greek Olives |
 | Pepperoncini |
-| Olive Oil | 2 tbsp
+| Olive Oil | 1-2 tbsp
 | Basil |
 
 # Directions
 - Start by pouring oil in a large mixing bowl
-- Add basil and other herbs if desired
+- Add basil and other herbs if desired (adding the herbs now lets them soften while you chop veggies)
 - Chop veggies and add to bowl
 - Add cheese
 - Mix
