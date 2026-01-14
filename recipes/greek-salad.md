@@ -23,7 +23,7 @@ A greek inspired salad. Great for a side, or pig out and eat the whole bowl as a
 
 # Directions
 - Start by pouring oil in a large mixing bowl
-- Add basic and other herbs if desired
+- Add basil and other herbs if desired
 - Chop veggies and add to bowl
 - Add cheese
 - Mix
