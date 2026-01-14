@@ -19,10 +19,8 @@ Store-bought frozen chicken nuggets for those busy days when you need something 
 # Directions
 
 ## Cooking
-- Follow package directions for cooking
-- **Oven:** Usually 400°F for 12-15 minutes, flipping halfway
-- **Air Fryer:** Usually 400°F for 8-10 minutes, shaking halfway
-- **Microwave:** Follow package directions (usually 2-3 minutes)
+- Follow package directions for cooking ya silly!
+- Probably add 10%-20% cooking time because most ovens lie.
 
 ## Serve
 - Let cool slightly and serve with your favorite dipping sauce
