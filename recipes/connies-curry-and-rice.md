@@ -1,4 +1,4 @@
-# Curry & Rice
+# Connie's Curry & Rice
 
 |||
 |-|-------|

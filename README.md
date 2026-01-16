@@ -12,7 +12,7 @@ We are a family of three: mom, dad, and 10yr old girl. Recipes should be kid-fri
 
 # Food Restrictions
 
-- **Dairy Free**: Meals must not use dairy ingredients. Substitutes are acceptable.
+- **Mostly Dairy Free**: Meals must not contain most dairy. Butter is ok, but milk and cheese are not. Substitutes are acceptable.
 - **No Avocados**: Avocados must be avoided.
 - **Modest refined Carbs**: While not a strict ban, refined carbs and added sugar should be kept low
 - **Avoid Sea Food**: Our child will not eat seafood. We'll need alternatives for her if we are making a seafood dish.
@@ -68,33 +68,4 @@ Each recipe includes ratings on a 1-5 scale:
   - 1 = Very expensive, premium ingredients
 
 # Style
-
 We don't need exact recipes. We usually cook by theme and feel, adapting ingredients and quantities based on what's available and our preferences. Recipes serve as guides and inspiration rather than strict instructions.
-
-# Meal Planning Notes
-
-When generating meal plans from this recipe library:
-
-- Aim for variety across the week (different proteins, cuisines, cooking methods)
-- Balance quick meals with more involved ones based on schedule
-- Consider prep work that can be done ahead (pre-cooked proteins, chopped veggies)
-- Account for dietary restrictions when planning (especially Mom's red meat preference)
-- Use ratings to balance family favorites with new experiments
-- Group recipes with overlapping ingredients to minimize shopping
-
-# Cooking Tools Available
-
-- Stove
-- Oven
-- Sous Vide
-- Dehydrator
-- Fridge
-- Freezer
-- Blender
-- Microwave
-- Food Processor
-- Wok
-- Cast Iron Pan
-- Stainless Pans
-- Non-Stick Pans
-- Utensils

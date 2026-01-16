@@ -1,6 +1,6 @@
 # Artichoke Soup
 
-||||
+|||
 |-|-------|
 | Rating | 4 |
 | Ease | 3 |
