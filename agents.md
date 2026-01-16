@@ -20,8 +20,8 @@ Wen asked to generate new recipies:
 - Group recipes with overlapping ingredients to minimize shopping
 
 # Todoist Integration Instructions
-
 When sending shopping lists to Todoist:
+
 - **Tool**: Use the todoist-mcp server. If it is not working, stop and help me resolve before continuing
 - **Shopping List**: Send the shopping list items to the "Sterling Family" > "Grocery" project
   - Items mentioning "Costco" → Add to "Costco" section
@@ -30,6 +30,20 @@ When sending shopping lists to Todoist:
   - All other items → Add to the main section
 - **Meal List**: Send meals to the "Sterling Family" > "Meals" project
 
+### Shopping List Sort Order
+When updating the todoist shopping list, ensure the list is sorted in the following order:
+- Produce
+- Hygine Products
+- Canned Goods
+- Pasta, Beans, Asian Ingredients
+- Baking Ingredients, Spices, Milk
+- Cereal, Tea, Coffee
+- Crackers, Cookies
+- Cheese
+- Meat
+- Frozen
+- Yogurt, Ice Cream
+- Bakery
 
 # Cooking Tools Available
 
