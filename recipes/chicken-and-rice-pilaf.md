@@ -2,8 +2,8 @@
 
 |               |   |
 |---------------|---|
-| Rating        | 4 |
-| Ease          | 4 |
+| Rating        | 5 |
+| Ease          | 3 |
 | Quickness     | 3 |
 | Affordability | 4 |
 
@@ -27,16 +27,13 @@ A one-pot meal that's comforting and easy. The rice absorbs all the flavors from
 # Directions
 
 - Heat oil in a large pot or Dutch oven over medium-high heat
-- Season chicken with salt, pepper, and Italian seasoning
+- Dry and season chicken with salt, pepper, and Italian seasoning
 - Sear chicken on both sides until golden, **remove and set aside**
 - In the same pot, add onion, carrots, and celery, cook until softened
 - Add garlic, cook for another minute
-- Add rice and stir to coat with oil
-- Return chicken to pot, add broth
+- Add rice and stir until translucent
+- Return chicken to pot, add broth, stir to release fond
 - Bring to a boil, then reduce heat to low, cover and simmer
 - Cook until rice is tender and liquid is absorbed, about 20-25 minutes
 - Let rest covered for 5 minutes before serving
-
-# Other Considerations
-
-Can add frozen peas or other vegetables at the end. For Mom's portion, can use chicken breast instead of thighs if avoiding dark meat.
+  
