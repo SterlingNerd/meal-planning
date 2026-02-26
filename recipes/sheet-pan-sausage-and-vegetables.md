@@ -36,4 +36,4 @@ Everything cooks on one pan - minimal cleanup and maximum flavor. The vegetables
 
 # Other Considerations
 
-Can use any combination of vegetables - sweet potatoes, carrots, Brussels sprouts all work well. For Mom, can use chicken sausage or a separate portion of chicken breast. Very flexible recipe - use whatever vegetables are on hand.
+Can use any combination of vegetables - sweet potatoes, carrots all work well. For Mom, can use chicken sausage or a separate portion of chicken breast. Very flexible recipe - use whatever vegetables are on hand.

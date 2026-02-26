@@ -13,11 +13,9 @@ Perfectly cooked, tender chicken using sous vide, paired with crispy roasted veg
 
 |Ingredient|Amount|Notes|
 |-|-|-|
-|Chicken Breast|2-3|For Mom and Dad|
-|Chicken Thighs|2-3|For the kid, or all thighs|
+|Chicken Thighs|2-3|
 |Broccoli|1 head|Cut into florets|
 |Carrots|3-4|Cut into sticks|
-|Brussels Sprouts|1 lb|Halved|
 |Potatoes|2-3|Cut into chunks|
 |Oil||
 |Garlic Powder||

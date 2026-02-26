@@ -32,7 +32,7 @@ When sending shopping lists to Todoist:
 
 ### Shopping List Sort Order
 When updating the todoist shopping list, ensure the list is sorted in the following order:
-- Produce
+- Produce, Fake Parm
 - Hygine Products
 - Canned Goods
 - Pasta, Beans, Asian Ingredients
