@@ -1,6 +1,6 @@
 ---
 name: meal-planner
-description: Use this skill to generate weekly meal plans, shopping lists, or recipe suggestions for the Sterling family. It enforces dietary restrictions (dairy-free, no seafood, no avocado).
+description: REQUIRED for all meal planning, recipe selection, and shopping list generation. Do NOT write code; use the instructions below to process markdown recipes in /recipes.
 ---
 
 # Meal Planning Instructions
