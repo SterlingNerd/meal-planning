@@ -5,8 +5,8 @@ When asked to help meal plan, follow these steps:
 1. Ask me if I want to generate any new recipies
   - If yes, ask me a few questions about what kind of recipe then use existing recipies as an example to generate the new one(s)
 2. Ask me how many meals to plan and whether to include any new recipies
-3. Generate a shopping list and pause so I can remove items I already have on hand.
-4. Send the remaining items and meals to todoist following the instructions in @README.md 
+3. Generate a shopping list and save it to shopping-list.md, then pause so I can remove items I already have on hand.
+4. Send the remaining items and meals to todoist following the instructions below.
 
 # Generating new recipies
 Wen asked to generate new recipies:
