@@ -1,22 +1,25 @@
 ---
 name: meal-planner
-description: REQUIRED for all meal planning, recipe selection, and shopping list generation. Do NOT write code; use the instructions below to process markdown recipes in /recipes.
+description: Call this skill whenever the user wants to plan meals, create a menu, browse recipes, or generate a grocery list.
 ---
 
 # Meal Planning Instructions
 When the user asks for a meal plan or shopping list, follow these procedural steps:
+**Do NOT write code**; use the instructions below to process markdown recipes in /recipes.
 
-1. **Scan Recipes**: Read the `recipes/` directory to identify candidates.
-2. **Filter by Family Constraints**:
-   - **Strict No**: No Avocados, No Seafood (for child), No Milk/Cheese (Butter is okay).
-   - **Preference**: Minimize Red Meat for Mom; prioritize 10yr-old friendly meals.
-3. **Balance the Week**:
-   - Select 3 recipes with **Ease >= 4** for weeknights.
-   - Ensure at least 2 meals are **Mostly Plant-Based** or poultry for Mom.
+1. **Clarify Request**: Ensure you understand the user's request (e.g., number of meals, etc.)
+2. **Scan Recipes**: Read the `recipes/` directory to identify candidates.
+3. **Filter by Constraints**:
+   - Did the user specify any thematic or ingredient preferences? (e.g., "Italian week", "use chicken", "avoid pasta")
+4. **Balance the Week**:
+   Unless otherwise directed, assume we're planning for dinner meals. Use ratings to balance family favorites with new experiments
+   - Select recipes with **Ease >= 4** for weeknights.
    - Use ratings to balance family favorites with new experiments
-4. **Output Format**:
-   - Provide the Weekly Menu.
+5. **Propose Menu**:
+   - Provide Menu.
+   - Allow user to review and request changes (e.g., swap meals, adjust for schedule, etc.)
+6. **Generate Shopping List**:
    - Generate a consolidated Shopping List based on the "Ingredients Table" in each selected recipe.
-   - save the shopping list to `shopping-list.md` for user review.
-5. **Todoist Integration**:
+   - Save the shopping list to `shopping-list.md` for user review.
+7. **Todoist Integration**:
    - After user reviews the shopping list, send the final list to Todoist.
