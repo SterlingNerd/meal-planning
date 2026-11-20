@@ -23,4 +23,4 @@ When the user asks for a meal plan or shopping list, follow these procedural ste
    - Provide Menu.
    - Allow user to review and request changes (e.g., swap meals, adjust for schedule, etc.)
 5. **Generate Shopping List**:
-   - When the user is satisfied with the menu, use the `shopping-list-builder` skill to generate a consolidated Shopping List based on the "Ingredients Table" in each selected recipe.
+   - When the user is satisfied with the menu, consolidate the "Ingredients Table" of each selected recipe into one Shopping List. Merge duplicate items and keep amounts theme-level ("2 heads broccoli", not "1 bunch").
